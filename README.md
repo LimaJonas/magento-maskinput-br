@@ -5,7 +5,7 @@
 - Usando [jQuerySimpleMas](https://github.com/DevUtils/jQuerySimpleMask "jQuerySimpleMas") adaptado para o Magento2.
 - Testado e criado usando Magento 2.3.6
 ### Instalação (Apenas manual)
-- Faça o [download](https://github.com/LimaJonas/magento-autocomplete-cep-br/releases "download") do modulo.
+- Faça o [download](https://github.com/LimaJonas/magento-maskinput/releases "download") do modulo.
 - Em [Magento_Root]/App/Code, crie as pastas Jonaslima/Maskinput.
 - Extraia arquivos dentro da pasta Maskinput.
 - Execute os comandos:
