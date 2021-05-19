@@ -2,7 +2,7 @@
 
 - Simples solução para mascarar campos automaticamente no Magento2.
 - Funcionando nos campos de CPF/CNPJ (TAX/VAT), Telefone, e CEP (Zipcode/Postcode).
-- Usando [jQuerySimpleMas](https://github.com/DevUtils/jQuerySimpleMask "jQuerySimpleMas") adaptado para o Magento2.
+- Usando [jQuerySimpleMask](https://github.com/DevUtils/jQuerySimpleMask "jQuerySimpleMas") adaptado para o Magento2.
 - Testado e criado usando Magento 2.3.6
 ### Instalação (Apenas manual)
 - Faça o [download](https://github.com/LimaJonas/magento-maskinput/releases "download") do modulo.
