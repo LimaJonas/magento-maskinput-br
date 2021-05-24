@@ -96,5 +96,12 @@ require(['jquery', 'jquery/ui'], function($){
             $(this).val('');
             $(this).val(currentValue);
     });
+// ============================================
 
+    // CEP na página de usuário
+    $('#dob').simpleMask({
+        'mask': ['##/##/####']
+    });
+
+// ============================================
 });
