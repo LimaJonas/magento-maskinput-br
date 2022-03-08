@@ -78,7 +78,7 @@ require(['jquery', 'jquery/ui'], function($){
             
             if(tamanho > 14){
                 $("#taxvat").simpleMask({
-                    'mask': ["##.####.###/####-##"]  //CNPJ
+                    'mask': ["##.###.###/####-##"]  //CNPJ
                 });
             } else{
                 $("#taxvat").simpleMask({
